@@ -1,6 +1,6 @@
 # PrimeTest
 
-Here are some codes to test whether a given integer based Miller-Rabin algorithm.
+Here are some codes to test whether a given integer is prime based Miller-Rabin algorithm.
 Thanks to the awesome algorithm,in theory,you could change the parameter of `initBaseNumber` to test infinity integer\
 usage:
 ```
