@@ -6,8 +6,16 @@
 using namespace std;
 
 int main(){
-    vector<string> tmpBaseNumber{"2047","1373653","25326001","3215031751","2152302898747",
-    "3474749660383","3825123056546413051","318665857834031151167461","	3317044064679887385961981"};
+    vector<string> tmpBaseNumber;
+    tmpBaseNumber.push_back("2047");
+    tmpBaseNumber.push_back("1373653");
+    tmpBaseNumber.push_back("25326001");
+    tmpBaseNumber.push_back("3215031751");
+    tmpBaseNumber.push_back("2152302898747");
+    tmpBaseNumber.push_back("3474749660383");
+    tmpBaseNumber.push_back("3825123056546413051");
+    tmpBaseNumber.push_back("318665857834031151167461");
+    tmpBaseNumber.push_back("3317044064679887385961981");
 
     initBaseNumber(tmpBaseNumber);
 
