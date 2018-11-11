@@ -11,5 +11,5 @@ make
 ```
 
 # NOTICE #[h
-*the [GMP](https://gmplib.org/) library is required.*
+*the [GMP](https://gmplib.org/) library is required.*\
 *by the way,enable c++ suport when you install [GMP](https://gmplib.org/) by --enable-cxx is also needed.[here](https://gmplib.org/manual/Build-Options.html#Build-Options) is more details*
